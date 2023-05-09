@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: starter.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 221.977 s - in starter.CucumberTestSuite

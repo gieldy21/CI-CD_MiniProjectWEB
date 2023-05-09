@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Order","Add one product in cart click + button","SUCCESS","2023-05-08T23:01:36.465+07:00[Asia/Bangkok]","0.0","10.28"
+"Order","reduce one product in cart click - button","SUCCESS","2023-05-08T23:01:47.511+07:00[Asia/Bangkok]","0.0","10.63"
+"Order","buy one product in cart click pay button","SUCCESS","2023-05-08T23:01:58.983+07:00[Asia/Bangkok]","0.0","10.43"

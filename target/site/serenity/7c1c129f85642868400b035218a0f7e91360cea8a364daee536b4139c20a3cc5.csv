@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Success login","SUCCESS","2023-05-08T22:59:37.641+07:00[Asia/Bangkok]","0.0","8.94"
+"Login","Failed login with invalid format","SUCCESS","2023-05-08T22:59:47.379+07:00[Asia/Bangkok]","0.0","5.71"
+"Login","Failed login with unregistered","SUCCESS","2023-05-08T22:59:53.861+07:00[Asia/Bangkok]","0.0","4.66"
+"Login","Failed login with invalid password","SUCCESS","2023-05-08T22:59:59.443+07:00[Asia/Bangkok]","0.0","5.21"
+"Login","Failed login with uppercase password","SUCCESS","2023-05-08T23:00:05.515+07:00[Asia/Bangkok]","0.0","5.36"

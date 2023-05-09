@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"HomePage","Add two identical in cart","SUCCESS","2023-05-08T23:00:22.228+07:00[Asia/Bangkok]","0.0","10.64"
+"HomePage","Add three identical in cart","SUCCESS","2023-05-08T23:00:42.968+07:00[Asia/Bangkok]","0.0","11.3"
+"HomePage","Add three different in cart","SUCCESS","2023-05-08T23:00:55.063+07:00[Asia/Bangkok]","0.0","10.63"
+"Order","Add one product in cart click + button","SUCCESS","2023-05-08T23:01:36.465+07:00[Asia/Bangkok]","0.0","10.28"
+"Order","reduce one product in cart click - button","SUCCESS","2023-05-08T23:01:47.511+07:00[Asia/Bangkok]","0.0","10.63"
+"Order","buy one product in cart click pay button","SUCCESS","2023-05-08T23:01:58.983+07:00[Asia/Bangkok]","0.0","10.43"

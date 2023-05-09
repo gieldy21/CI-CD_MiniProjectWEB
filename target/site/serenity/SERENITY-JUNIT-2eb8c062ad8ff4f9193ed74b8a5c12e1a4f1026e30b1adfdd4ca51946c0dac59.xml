@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Order" skipped="0" tests="3" time="31.33" timestamp="2023-05-08 11:01:36"><testcase name="Add one product in cart click + button"/><testcase name="reduce one product in cart click - button"/><testcase name="buy one product in cart click pay button"/></testsuite>

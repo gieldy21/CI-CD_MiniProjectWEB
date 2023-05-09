@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register","Failed register with invalid email","SUCCESS","2023-05-08T22:58:46.812+07:00[Asia/Bangkok]","0.0","6.45"
+"Register","Failed register with already used email","SUCCESS","2023-05-08T22:58:54.044+07:00[Asia/Bangkok]","0.0","6.23"
+"Register","Failed register with does not exist email","SUCCESS","2023-05-08T22:59:01.047+07:00[Asia/Bangkok]","0.0","5.99"
+"Register","Failed register with not fill all","SUCCESS","2023-05-08T22:59:07.893+07:00[Asia/Bangkok]","0.0","7.13"
+"Register","Failed register with not fill full name","SUCCESS","2023-05-08T22:59:15.827+07:00[Asia/Bangkok]","0.0","6.82"
+"Register","Failed register with not fill email","SUCCESS","2023-05-08T22:59:23.5+07:00[Asia/Bangkok]","0.0","6.84"
+"Register","Failed register with not fill password","SUCCESS","2023-05-08T22:59:31.216+07:00[Asia/Bangkok]","0.0","5.53"

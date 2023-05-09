@@ -1,0 +1,11 @@
+starter\order\Order.class
+starter\register\ValidateLogin.class
+starter\login\Login.class
+starter\stepdefinitions\LoginSteps.class
+starter\register\Register.class
+starter\CucumberTestSuite.class
+starter\login\ValidateHomepage.class
+starter\stepdefinitions\OrderSteps.class
+starter\Homepage\Homepage.class
+starter\stepdefinitions\HomepageSteps.class
+starter\stepdefinitions\RegisterSteps.class

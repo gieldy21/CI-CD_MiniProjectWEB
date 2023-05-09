@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"HomePage","Add one product in cart","SUCCESS","2023-05-08T23:00:11.695+07:00[Asia/Bangkok]","0.0","9.73"
+"HomePage","Add two different in cart","SUCCESS","2023-05-08T23:00:33.674+07:00[Asia/Bangkok]","0.0","8.49"
+"HomePage","See detail product 1","SUCCESS","2023-05-08T23:01:06.455+07:00[Asia/Bangkok]","0.0","9.46"
+"HomePage","See detail product 2","SUCCESS","2023-05-08T23:01:16.658+07:00[Asia/Bangkok]","0.0","8.27"
+"HomePage","See detail product 3","SUCCESS","2023-05-08T23:01:25.764+07:00[Asia/Bangkok]","0.0","9.96"

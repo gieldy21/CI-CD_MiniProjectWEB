@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"HomePage","Add two identical in cart","SUCCESS","2023-05-08T23:00:22.228+07:00[Asia/Bangkok]","0.0","10.64"
+"HomePage","Add three identical in cart","SUCCESS","2023-05-08T23:00:42.968+07:00[Asia/Bangkok]","0.0","11.3"
+"HomePage","Add three different in cart","SUCCESS","2023-05-08T23:00:55.063+07:00[Asia/Bangkok]","0.0","10.63"
